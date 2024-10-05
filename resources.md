@@ -1,7 +1,4 @@
 # Resources
-
-![poster](poster.pdf)
-
 - Book: [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - Notebooks: [Google Drive](https://drive.google.com/drive/folders/1TXkyWUyEFsCrP3LNFpxmEcMUmirtlx9_?usp=sharing)
 
